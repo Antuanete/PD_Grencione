@@ -3,7 +3,7 @@
 #1 Azarēviča Arina
 
 #2 Bāra Antuanete
-
+print(cos(radians(60)+fmod(15,2)))
 #3 Boja Ernests
 
 #4 Donovs Emīls Niks
